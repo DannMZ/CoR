@@ -1,0 +1,17 @@
+F:\Lab\labs\CoR\CoR\bin\Debug\net6.0-windows\CoR.exe
+F:\Lab\labs\CoR\CoR\bin\Debug\net6.0-windows\CoR.deps.json
+F:\Lab\labs\CoR\CoR\bin\Debug\net6.0-windows\CoR.runtimeconfig.json
+F:\Lab\labs\CoR\CoR\bin\Debug\net6.0-windows\CoR.dll
+F:\Lab\labs\CoR\CoR\bin\Debug\net6.0-windows\CoR.pdb
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.csproj.AssemblyReference.cache
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.Form1.resources
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.csproj.GenerateResource.cache
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.AssemblyInfoInputs.cache
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.AssemblyInfo.cs
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.csproj.CoreCompileInputs.cache
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.dll
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\refint\CoR.dll
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.pdb
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\CoR.genruntimeconfig.cache
+F:\Lab\labs\CoR\CoR\obj\Debug\net6.0-windows\ref\CoR.dll
